@@ -7,6 +7,10 @@
 
 ## Platform and Tools Used
 
+- TryHackMe
+- Windows Powershell
+- Active Directory
+
 ## Objective
 
 In this small project, I will demonstrate how to reset a user password using PowerShell. I will take on the role of an admin named Phillip and reset the password for a user named Sophie.
@@ -55,6 +59,11 @@ As shown in the screenshot, Sophie now creates a new password **Football23$** to
   <img src="https://github.com/user-attachments/assets/a9b55dc4-66be-442f-b3b8-c923425a5d50" alt="Password Changed Confirmation" width="400"/>
 
   As shown in the screenshot, the password has been successfully changed. Sophie now has access to her computer again.
+
+
+  ## Conclusion
+
+  In this project, I demonstrated how to reset a user password using PowerShell by taking on the role of an administrator. The process involved creating a temporary password and enforcing a password reset at the user's next logon. This ensures that the user can regain access securely while maintaining good password hygiene. By verifying the changes from the user’s perspective, we confirmed that the password reset was successful. This simple yet practical task highlights the usefulness of PowerShell in everyday administrative duties.
 
 
   
