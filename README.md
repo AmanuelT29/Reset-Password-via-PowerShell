@@ -3,7 +3,7 @@
 </p>
 
 
-# Reset User Passwords via PowerShell
+# Reset Password via PowerShell
 
 ## Platform and Tools Used
 
