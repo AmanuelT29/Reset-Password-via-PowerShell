@@ -13,7 +13,7 @@
 
 ## Objective
 
-In this small project, I will demonstrate how to reset a user password using PowerShell. I will take on the role of an admin named **Phillip** and reset the password for a user named **Sophie**.
+In this project, I will demonstrate how to reset a user password using PowerShell. I will take on the role of an admin named **Phillip** and reset the password for a user named **Sophie**.
 
 The process involves two main steps:
 
